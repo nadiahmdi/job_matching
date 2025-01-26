@@ -1,0 +1,11 @@
+Job ID;Job Title;Job Description;Skills;Industry/Field;Education Requirement;Location
+1;Software Engineer;Develop and maintain software applications.;Python, SQL, Java;IT;Bachelor's;New York
+2;Data Scientist;Analyze and interpret complex data.;Python, R, Machine Learning;IT;Master's;Remote
+3;Marketing Manager;Plan and execute marketing strategies.;SEO, Content Creation, Analytics;Marketing;Bachelor's;San Franci
+4;Data Analyst ;Analyse and visualize data;Python, Tableau, Machine Learning;IT;Bachelor's;Hybrid (Munich)
+5;Data Engineer;Execute pipelines, prepare data model and datasets;Maching Learning, SQL, Database, Data Modelling ;AI;Master's;Frankfurt
+6;Embedded Software Developer ;Use different algorithms for developing hardware and sensors properly;Physic, Math, C, C++;Electrical Industry ;Bachelor's;Ljubljana
+7;Teacher Assistant;Assistant and collaborate with teachers for math subject, correct and create questions for final exam;Langauge English, Math, Linear Algebra;Education ;Master's;Bremen
+8;Python Developer ;Know to follow ETL approach for clean coding ;ETL, clean coding, Python, Java;IT;Master's;Hamburg
+9;Full Stack Developer;Develop and maintain the web application with good design;Web, HTML5, php, css;IT;Master's;Remote
+10;Nurse;Collaborate and handle reports for patienst in clinic;Physic, Chemistry, Lab, Report Writing;Medical;Bachelor's;Munich 
